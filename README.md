@@ -10,7 +10,7 @@ Code, my chosen canvas, is the medium through which creativity, technical expert
 
 <h3>🤖Interests</h3> I am driven to explore the boundless frontiers within the ever-evolving realm of machine learning AI, web3 technologies, blockchain, and decentralized applications. I am particularly captivated by their profound connections to the intricate world of finance. Additionally, I find the realm of cybersecurity fascinating, as it plays an integral role in safeguarding the digital landscape and preserving the integrity of information.
 
-<h3>🌎Tikkun-Olam</h3> In addition to my passion for technology, I deeply commit myself to making the world a better place. By leveraging the power of technological innovation, I aspire to contribute to the greater good and address pressing challenges.
+<h3>🌎Tikkun-Olam</h3> Beyond my ardent devotion to technology, I am deeply committed to making the world a better place. By leveraging the power of technological innovation and creativity, I aspire to contribute to the greater good and address pressing challenges.
 
 I am thrilled to embark on new ventures, collaborate with like-minded individuals, and push the boundaries of what is possible. Let us unite in our shared vision of shaping a future where technology and innovation bring about positive change.
 
