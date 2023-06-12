@@ -31,7 +31,7 @@ Code, my chosen canvas, serves as the medium where creativity, technical experti
     <li>JavaScript (React, Angular)</li>
   </ul>
 <b>CyberSecurity and Networking</b>
-<b>Blockchain Language::</b>
+<b>Blockchain Language:</b>
   <ul>
     <li>Solidity</li>
   </ul>
