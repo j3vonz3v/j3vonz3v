@@ -4,17 +4,13 @@
 <h3>PROJECT TYPE 🕷️🕸️</h3>
 ✅<b> project name (language used)</b>  : link<br/>
 
-<h2>🧬 ABOUT ME:</h2>
-<h3>Inspiration 🎨</h3>
-Code, my chosen canvas, is the medium through which creativity, technical expertise, and linguistic inspiration dance in harmonious symphony—a song of expression that unveils infinite possibilities, where the ethereal and tangible intertwine. Possessing a transformative power, it inspires innovation and shapes our future.
+<h2> ABOUT ME:</h2>
+Code, my chosen canvas, the medium through which creativity, technical expertise, and linguistic inspiration dance in harmonious symphony—a song of expression that unveils infinite possibilities, a transformative power, to inspires innovation and shapes our future.
 
-<h3>Interests 🤖</h3> I am driven to explore the boundless frontiers within the ever-evolving realm of machine learning AI, web3 technologies (blockchain applications). I am particularly captivated by their profound connections to the intricate world of finance. Additionally, I am fascinated in Cyber-Security, as it plays an integral role in safeguarding the digital landscape and preserving the integrity of information.
+<h3>Interest and Goals</h3>
+I am interested in exploring the boundless frontiers within the ever-evolving realm of machine learning AI, Web3 technologies (blockchain applications), and Cyber Security. Particularly, I am captivated by their profound connections to the intricate world of finance and their integral role in safeguarding the digital landscape while preserving the integrity of information. Beyond my ardent devotion to technology, I am deeply committed to making the world a better place. By harnessing the power of technological innovation and creativity, I aspire to make meaningful contributions towards the greater good and find sustainable solutions.
 
-<h3>Tikkun-Olam 🌎</h3> Beyond my ardent devotion to technology, I am deeply committed to making the world a better place. By harnessing the power of technological innovation and creativity, I aspire to make meaningful contributions towards the greater good and finding solutions.
-
-I am thrilled to embark on new ventures, collaborate with like-minded individuals, and push the boundaries of what is possible. Let us unite in our shared vision of shaping a future where technology and innovation bring about positive change.
-
-<h3>Skills 📚</h3>
+<h3>Skills</h3>
 <b>High-Level Scripting Languages:</b>
   <ul>
     <li>Python</li>
@@ -34,8 +30,8 @@ I am thrilled to embark on new ventures, collaborate with like-minded individual
     <li>Python (Django, Flask)</li>
     <li>JavaScript (React, Angular)</li>
   </ul>
-<b>CyberSecurity and Networking</b>
-<b>Blockchain Language:</b>
+<b>CyberSecurity and Networking:</b>
+<b>Blockchain:</b>
   <ul>
     <li>Solidity</li>
   </ul>
