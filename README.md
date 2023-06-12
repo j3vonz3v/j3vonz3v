@@ -1,10 +1,8 @@
 <h1>MY PORTFOLIO : <a href="https://linktr.ee/j3vonz3v_network">JEVON ZE'EV </a>SOFTWARE ENGINEER</h1>
 --UNDER CONSTRUCTION--
 <h2>👨‍💻 PROJECT LISTINGS:</h2>
-<h3e>Web Development🕷️🕸️</h3>
-✅<b> Library Management System (C++)</b>  : link<br/>
-✅<b> Static Website (HTML5/CSS3)</b>  : link<br/>
-✅<b> Interactive Quiz Game (JavaScript)</b>  : link<br/>
+<h3>PROJECT TYPE 🕷️🕸️</h3>
+✅<b> project name (language used)</b>  : link<br/>
 
 <h2>📚ABOUT ME:</h2>
 <h3>Technology is my passion🤖🧬</h3>
