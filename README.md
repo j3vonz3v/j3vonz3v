@@ -22,6 +22,10 @@ My deep commitment lies in making a positive impact on the world. By harnessing 
     <li>Python</li>
     <li>JavaScript</li>
   </ul>
+  <b>High-Level Languages:</b>
+  <ul>
+    <li>Java</li>
+  </ul>
 <b>Low-Level Languages:</b>
   <ul>
     <li>C</li>
@@ -36,8 +40,12 @@ My deep commitment lies in making a positive impact on the world. By harnessing 
     <li>Python (Django, Flask)</li>
     <li>JavaScript (React, Angular)</li>
   </ul>
-<b>CyberSecurity and Networking:</b>
 <b>Blockchain:</b>
   <ul>
     <li>Solidity</li>
+  </ul>
+  <b>Other</b>
+  <ul>
+    <li>Cyber-Security</li>
+    <li>Networking</li>
   </ul>
