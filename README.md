@@ -1,4 +1,4 @@
-<h1>MY PORTFOLIO : <a href="https://linktr.ee/j3vonz3v_network">JEVON ZE'EV </a>SOFTWARE ENGINEER</h1>
+<h1>MY PORTFOLIO : <a href="https://linktr.ee/JevonConnect">JEVON ZE'EV </a>SOFTWARE ENGINEER</h1>
 --UNDER CONSTRUCTION--
 <h2>👨‍💻 PROJECT LISTINGS:</h2>
 <h3>PROJECT TYPE 🕷️🕸️</h3>
