@@ -35,10 +35,10 @@ My deep commitment lies in making a positive impact on the world. By harnessing 
   <ul>
     <li>HTML5/CSS3</li>
   </ul>
-<b>FRAMEWORKS</b>
+<b>FrameWorks</b>
   <ul>
     <li>Python (Django, Flask)</li>
-    <li>JavaScript (React, Angular)</li>
+    <li>JavaScript (React, Angular, anime)</li>
   </ul>
 <b>Blockchain:</b>
   <ul>
