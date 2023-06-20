@@ -5,11 +5,17 @@
 ✅<b> project name (language used)</b>  : link<br/>
 
 <h2> ABOUT ME:</h2>
-Code, my chosen canvas, the medium through which creativity, technical expertise, and linguistic inspiration dance in harmonious symphony—a song of expression that unveils infinite possibilities, a transformative power, to inspires innovation and shapes our future.
-
-<h3>Interest and Goals</h3>
-I am interested in exploring the boundless frontiers within the ever-evolving realm of machine learning AI, Web3 technologies (blockchain applications), and Cyber Security. Particularly, I am captivated by their profound connections to the intricate world of finance and their integral role in safeguarding the digital landscape while preserving the integrity of information. Beyond my ardent devotion to technology, I am deeply committed to making the world a better place. By harnessing the power of technological innovation and creativity, I aspire to make meaningful contributions towards the greater good and find sustainable solutions.
-
+Code, my chosen canvas, the medium through which creativity, technical expertise, and linguistic inspiration dance in harmonious symphony—a song of expression that unveils infinite possibilities, a transformative power, to inspire innovation and shapes our future.
+<h3>Interests and Goals</h3>
+<p>
+I am captivated by the ever-evolving frontiers of machine learning AI, Web3 technologies (blockchain applications), and Cyber Security. Particularly, I am fascinated by their profound connections to the intricate world of finance and their vital role in safeguarding the digital landscape while upholding information integrity.
+</p>
+<p>
+In addition to my unwavering dedication to technical pursuits, I am creatively fueled by a profound passion for linguistics, art, poetry, fashion, and cinema. As a developer, my driving force is to express and integrate these ideas through the evocative medium of code.
+</p>
+<p>
+My deep commitment lies in making a positive impact on the world. By harnessing the power of technological innovation and provocative creativity, I aspire to make meaningful contributions to the greater good, uncover sustainable solutions, and actively participate in the open-source community.
+</p>
 <h3>Skills</h3>
 <b>High-Level Scripting Languages:</b>
   <ul>
