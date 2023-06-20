@@ -1,7 +1,8 @@
 <h1>MY PORTFOLIO : <a href="https://linktr.ee/JevonConnect">JEVON ZE'EV </a>SOFTWARE ENGINEER</h1>
---UNDER CONSTRUCTION--
+
 <h2>👨‍💻 PROJECT LISTINGS:</h2>
 <h3>PROJECT TYPE 🕷️🕸️</h3>
+🚧under construction 👷
 ✅<b> project name (language used)</b>  : link<br/>
 
 <h2> ABOUT ME:</h2>
